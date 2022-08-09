@@ -1,0 +1,3 @@
+olá mundo!
+eu me chamo Amanda!
+Yey! estou aprendendo a programar em Java!
